@@ -54,95 +54,95 @@ $ rougify version
 
 ### base16
 
-![base16](./screenshots/base16.png)
+![base16](https://cdn.jsdelivr.net/gh/mzlogin/rouge-themes@master/screenshots/base16.png)
 
 ### base16.dark
 
-![base16.dark](./screenshots/base16.dark.png)
+![base16.dark](https://cdn.jsdelivr.net/gh/mzlogin/rouge-themes@master/screenshots/base16.dark.png)
 
 ### base16.light
 
-![base16.light](./screenshots/base16.light.png)
+![base16.light](https://cdn.jsdelivr.net/gh/mzlogin/rouge-themes@master/screenshots/base16.light.png)
 
 ### base16.monokai
 
-![base16.monokai](./screenshots/base16.monokai.png)
+![base16.monokai](https://cdn.jsdelivr.net/gh/mzlogin/rouge-themes@master/screenshots/base16.monokai.png)
 
 ### base16.monokai.dark
 
-![base16.monokai.dark](./screenshots/base16.monokai.dark.png)
+![base16.monokai.dark](https://cdn.jsdelivr.net/gh/mzlogin/rouge-themes@master/screenshots/base16.monokai.dark.png)
 
 ### base16.monokai.light
 
-![base16.monokai.light](./screenshots/base16.monokai.light.png)
+![base16.monokai.light](https://cdn.jsdelivr.net/gh/mzlogin/rouge-themes@master/screenshots/base16.monokai.light.png)
 
 ### base16.solarized
 
-![base16.solarized](./screenshots/base16.solarized.png)
+![base16.solarized](https://cdn.jsdelivr.net/gh/mzlogin/rouge-themes@master/screenshots/base16.solarized.png)
 
 ### base16.solarized.dark
 
-![base16.solarized.dark](./screenshots/base16.solarized.dark.png)
+![base16.solarized.dark](https://cdn.jsdelivr.net/gh/mzlogin/rouge-themes@master/screenshots/base16.solarized.dark.png)
 
 ### base16.solarized.light
 
-![base16.solarized.light](./screenshots/base16.solarized.light.png)
+![base16.solarized.light](https://cdn.jsdelivr.net/gh/mzlogin/rouge-themes@master/screenshots/base16.solarized.light.png)
 
 ### bw
 
-![bw](./screenshots/bw.png)
+![bw](https://cdn.jsdelivr.net/gh/mzlogin/rouge-themes@master/screenshots/bw.png)
 
 ### colorful
 
-![colorful](./screenshots/colorful.png)
+![colorful](https://cdn.jsdelivr.net/gh/mzlogin/rouge-themes@master/screenshots/colorful.png)
 
 ### github
 
-![github](./screenshots/github.png)
+![github](https://cdn.jsdelivr.net/gh/mzlogin/rouge-themes@master/screenshots/github.png)
 
 ### gruvbox
 
-![gruvbox](./screenshots/gruvbox.png)
+![gruvbox](https://cdn.jsdelivr.net/gh/mzlogin/rouge-themes@master/screenshots/gruvbox.png)
 
 ### gruvbox.dark
 
-![gruvbox.dark](./screenshots/gruvbox.dark.png)
+![gruvbox.dark](https://cdn.jsdelivr.net/gh/mzlogin/rouge-themes@master/screenshots/gruvbox.dark.png)
 
 ### gruvbox.light
 
-![gruvbox.light](./screenshots/gruvbox.light.png)
+![gruvbox.light](https://cdn.jsdelivr.net/gh/mzlogin/rouge-themes@master/screenshots/gruvbox.light.png)
 
 ### igorpro
 
-![igorpro](./screenshots/igorpro.png)
+![igorpro](https://cdn.jsdelivr.net/gh/mzlogin/rouge-themes@master/screenshots/igorpro.png)
 
 ### magritte
 
-![magritte](./screenshots/magritte.png)
+![magritte](https://cdn.jsdelivr.net/gh/mzlogin/rouge-themes@master/screenshots/magritte.png)
 
 ### molokai
 
-![molokai](./screenshots/molokai.png)
+![molokai](https://cdn.jsdelivr.net/gh/mzlogin/rouge-themes@master/screenshots/molokai.png)
 
 ### monokai
 
-![monokai](./screenshots/monokai.png)
+![monokai](https://cdn.jsdelivr.net/gh/mzlogin/rouge-themes@master/screenshots/monokai.png)
 
 ### monokai.sublime
 
-![monokai.sublime](./screenshots/monokai.sublime.png)
+![monokai.sublime](https://cdn.jsdelivr.net/gh/mzlogin/rouge-themes@master/screenshots/monokai.sublime.png)
 
 ### pastie
 
-![pastie](./screenshots/pastie.png)
+![pastie](https://cdn.jsdelivr.net/gh/mzlogin/rouge-themes@master/screenshots/pastie.png)
 
 ### thankful_eyes
 
-![thankful_eyes](./screenshots/thankful_eyes.png)
+![thankful_eyes](https://cdn.jsdelivr.net/gh/mzlogin/rouge-themes@master/screenshots/thankful_eyes.png)
 
 ### tulip
 
-![tulip](./screenshots/tulip.png)
+![tulip](https://cdn.jsdelivr.net/gh/mzlogin/rouge-themes@master/screenshots/tulip.png)
 
 ## 生成方法
 
