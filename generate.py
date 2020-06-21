@@ -27,4 +27,5 @@ if __name__ == '__main__':
     clear_history()
     styles = get_support_styles()
     for style in styles:
+        print(style)
         run_cmd('rougify style %s > dist/%s.css' % (style, style))
