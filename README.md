@@ -54,49 +54,95 @@ $ rougify version
 
 ### base16
 
+![base16](./screenshots/base16.png)
+
 ### base16.dark
+
+![base16.dark](./screenshots/base16.dark.png)
 
 ### base16.light
 
+![base16.light](./screenshots/base16.light.png)
+
 ### base16.monokai
+
+![base16.monokai](./screenshots/base16.monokai.png)
 
 ### base16.monokai.dark
 
+![base16.monokai.dark](./screenshots/base16.monokai.dark.png)
+
 ### base16.monokai.light
+
+![base16.monokai.light](./screenshots/base16.monokai.light.png)
 
 ### base16.solarized
 
+![base16.solarized](./screenshots/base16.solarized.png)
+
 ### base16.solarized.dark
+
+![base16.solarized.dark](./screenshots/base16.solarized.dark.png)
 
 ### base16.solarized.light
 
+![base16.solarized.light](./screenshots/base16.solarized.light.png)
+
 ### bw
+
+![bw](./screenshots/bw.png)
 
 ### colorful
 
+![colorful](./screenshots/colorful.png)
+
 ### github
+
+![github](./screenshots/github.png)
 
 ### gruvbox
 
+![gruvbox](./screenshots/gruvbox.png)
+
 ### gruvbox.dark
+
+![gruvbox.dark](./screenshots/gruvbox.dark.png)
 
 ### gruvbox.light
 
+![gruvbox.light](./screenshots/gruvbox.light.png)
+
 ### igorpro
+
+![igorpro](./screenshots/igorpro.png)
 
 ### magritte
 
+![magritte](./screenshots/magritte.png)
+
 ### molokai
+
+![molokai](./screenshots/molokai.png)
 
 ### monokai
 
+![monokai](./screenshots/monokai.png)
+
 ### monokai.sublime
+
+![monokai.sublime](./screenshots/monokai.sublime.png)
 
 ### pastie
 
+![pastie](./screenshots/pastie.png)
+
 ### thankful_eyes
 
+![thankful_eyes](./screenshots/thankful_eyes.png)
+
 ### tulip
+
+![tulip](./screenshots/tulip.png)
 
 ## 生成方法
 
